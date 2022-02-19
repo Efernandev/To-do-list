@@ -1,9 +1,8 @@
 # To-do-list
 
-Projetinho que fiz nos desafios do [Bonieky](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ) do vídeo da playlist **desafio 5em5**
+Projetinho que fiz nos desafios do [Bonieky](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ) do vídeo da playlist ***desafio 5em5***
 
-<img style="width:400px" src="https://cdn.pixabay.com/photo/2020/10/16/12/45/plan-5659443_1280.png"/>
-
+<img style="width:400px;float:left" src="https://cdn.pixabay.com/photo/2020/10/16/12/45/plan-5659443_1280.png"/>
 
 ### Stacks usadas 
 
