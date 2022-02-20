@@ -1,6 +1,8 @@
-# To-do-list
+# To do List - Lista de afazeres 
 
-Projetinho que fiz nos desafios do [Bonieky](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ) do vídeo da playlist ***desafio 5em5***
+Meu primeiro projeto em `react` que fiz nos desafios do [Bonieky](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ) do vídeo da playlist ***desafio 5em5***.
+Também estou utilizando `vite` para facilitar uma criação rápida do projeto e disponibiliza muitas bibliotecas front end para uso
+
 
 <img style="width:400px;float:left" src="https://cdn.pixabay.com/photo/2020/10/16/12/45/plan-5659443_1280.png"/>
 
